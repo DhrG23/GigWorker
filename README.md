@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     %% 🌟 Main Flow: Value to Users and Data to Payers
     
@@ -46,3 +47,4 @@ graph LR
     class PM highlight
     class R2_LE,R3_SP,R4_GOV,R1_PREMIUM revenue
     class R_Y user
+```
