@@ -17,8 +17,8 @@ graph TD
     
     subgraph C
     C_TITLE[Revenue Flow]
-        R2_LE[Employer Subscriptions & Premium Listing Fees]
-        R3_SP[VTC/Provider Lead Generation Fees (CPA)]
+        R2_LE[Employer Subscriptions & Premium Listing Fees]    
+        R3_SP[VTC/Provider Lead Generation Fees CPA]
         R4_GOV[Govt/NGO Data Licensing Fees]
     end
 
