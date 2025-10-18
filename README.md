@@ -69,7 +69,7 @@ graph TD
     J --> K[<i class='fa fa-graduation-cap'></i> Local Training Recommendation];
     
     K --> L(Career Pathing: Upskill);
-    L --> E; %% Loop back to the recommendation engine after upskilling
+    L --> E; 
 
     I --> M[<i class='fa fa-rocket'></i> Sustainable Employment/Self-Sufficiency];
     
