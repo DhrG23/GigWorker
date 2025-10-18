@@ -74,10 +74,10 @@ graph TD
     I --> M[<i class='fa fa-rocket'></i> Sustainable Employment/Self-Sufficiency];
     
     %% Define Node Styles
-    classDef user fill:#9ED6E7,stroke:#0077B6,stroke-width:2px;
-    classDef ai fill:#D4EDDA,stroke:#155724,stroke-width:2px;
-    classDef gap fill:#FFF3CD,stroke:#856404,stroke-width:2px;
-    classDef result fill:#DCF8C6,stroke:#38761D,stroke-width:2px;
+    classDef user fill:#9ED6E7,stroke:#0077B6,stroke-width:2px,color:#000; %% Added color:#000
+    classDef ai fill:#D4EDDA,stroke:#155724,stroke-width:2px,color:#000;   %% Added color:#000
+    classDef gap fill:#FFF3CD,stroke:#856404,stroke-width:2px,color:#000;   %% Added color:#000
+    classDef result fill:#DCF8C6,stroke:#38761D,stroke-width:2px,color:#000; %% Added color:#000
     
     class A,M user;
     class D,E ai;
