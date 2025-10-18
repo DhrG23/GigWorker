@@ -1,3 +1,5 @@
+<h1>Business Model<h1>
+
 ```mermaid
 graph LR
     %% 🌟 Main Flow: Value to Users and Data to Payers
